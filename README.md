@@ -17,17 +17,17 @@ Este projeto é um programa simples em Python que calcula a Taxa de Metabolismo 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/sutsca/Trab_Python.git
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd nome-do-repositorio
+    cd Trab_Python
     ```
 
 3. Execute o script principal:
     ```bash
-    python nome_do_script.py
+    python Trab_Python.py
     ```
 
 ## Estrutura do Código
